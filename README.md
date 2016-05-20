@@ -1,3 +1,3 @@
 # Angular2Seed
 
-A simple angular2 project (RC1)
+A simple angular2 project (RC2)
