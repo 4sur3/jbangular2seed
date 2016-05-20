@@ -1,2 +1,3 @@
-# jbangular2seed
-# jbangular2seed
+# Angular2Seed
+
+A simple angular2 project (RC1)
